@@ -1,9 +1,10 @@
 # tb-lfx-classifier
 TB Levofloxacin Resistance Classifier (scikit-learn, Colab)
 
-Please open the noteobok directly in Google Colab to view:
+This link will open the notebook directly in Colab.
+---------------------------------------------------------
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ae-314/tb-lfx-classifier/blob/main/TB_levo_resistance_predictor.ipynb)
+https://colab.research.google.com/drive/1AGKYmtY-JwSSvryzjdh-ugKIZX5dRyqZ?usp=sharing
 
 Binary classifier to predict **levofloxacin resistance** in *M. tuberculosis* isolates from public sources. Implements **Logistic Regression** and **Random Forest** in **scikit-learn**, with evaluation on an imbalanced test set.
 
